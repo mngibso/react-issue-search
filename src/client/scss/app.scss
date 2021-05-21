@@ -1,0 +1,7 @@
+@import '../../../node_modules/bootstrap/scss/bootstrap.scss';
+.list-group-item:hover {
+    background-color: #e8e8e8;
+}
+.list-group-item.active {
+    background-color: #d8d8d8;
+}
